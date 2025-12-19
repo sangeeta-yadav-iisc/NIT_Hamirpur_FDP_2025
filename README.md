@@ -11,15 +11,6 @@ I demonstrate the use of **DeepXDE** for solving following excercises with corre
 - [1D Time-Dependent Burgers’ Equation](https://github.com/sangeeta-yadav-iisc/NIT_Hamirpur_FDP_2025/blob/main/burgers_equation.ipynb)
 
 
-
-
-## Methodology
-
-- A fully connected neural network approximates the solution $$u(x)$$
-- PDE residuals are enforced via **automatic differentiation**
-- Boundary conditions are imposed through the loss function
-- No mesh or numerical discretization is required
-
 ---
 
 By 
