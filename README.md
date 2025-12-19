@@ -5,7 +5,7 @@ It demonstrates how **Physics-Informed Neural Networks (PINNs)** can be used to 
 
 ---
 
-## 📘 Problem Statement
+## Problem Statement
 
 We solve the steady 1D convection–diffusion equation:
 
@@ -21,7 +21,7 @@ $$
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 - A fully connected neural network approximates the solution \( u(x) \)
 - PDE residuals are enforced via **automatic differentiation**
@@ -30,7 +30,7 @@ $$
 
 ---
 
-## 🧪 What this notebook demonstrates
+## What this notebook demonstrates
 
 - Construction of a PINN using PyTorch
 - Enforcement of physics constraints
@@ -39,8 +39,6 @@ $$
 
 ---
 
-## ▶️ Run on Google Colab
 
-Click below to run the notebook directly:
 
 
