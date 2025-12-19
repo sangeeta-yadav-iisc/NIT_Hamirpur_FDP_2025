@@ -1,5 +1,14 @@
 # L30: Neural Network–based Solvers for Convection–Diffusion Systems
 
+L30 covers the following equations and their corresponding DeepXDE notebooks:
+
+- **1D Steady Convection–Diffusion Equation**  
+  👉 [Open Notebook](./notebooks/convection_diffusion_pinn.ipynb)
+
+- **1D Time-Dependent Burgers’ Equation**  
+  👉 [Open Notebook](./notebooks/burgers_equation_pinn.ipynb)
+
+
 This repository accompanies **Lecture 30** on *Neural Network-based Solvers for Convection–Diffusion Systems*.
 It demonstrates how **Physics-Informed Neural Networks (PINNs)** can be used to solve a 1D convection–diffusion equation.
 
