@@ -2,7 +2,7 @@
 
 # L30: Neural Network–based Solvers for Convection–Diffusion Systems
 
-I demonstrate the use of **Physics-Informed Neural Networks (PINNs)** with **DeepXDE** for solving following equations with corresponding notebooks:
+I demonstrate the use of **DeepXDE** for solving following excercises with corresponding notebooks:
 
 - [1D Steady Convection–Diffusion Equation](https://github.com/sangeeta-yadav-iisc/NIT_Hamirpur_FDP_2025/blob/main/convdiff.ipynb)
 
