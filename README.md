@@ -22,11 +22,18 @@ I demonstrate the use of **Physics-Informed Neural Networks (PINNs)** with **Dee
 
 By 
 Dr. Sangeeta Yadav,
+
 Assistant Professor,
+
 Department of Computer Science and Engineering,
+
 Faculty of Technology,
+
 University of Delhi.
+
 [Google Scholar](https://scholar.google.com/citations?user=5HYe3KwAAAAJ&hl=en) || [Linkedin](https://www.linkedin.com/in/shongi/)
+
+[Homepage](https://sites.google.com/view/sangeetayadav/home)
 
 
 
