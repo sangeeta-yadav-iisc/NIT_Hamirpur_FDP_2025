@@ -20,14 +20,13 @@ I demonstrate the use of **Physics-Informed Neural Networks (PINNs)** with **Dee
 
 ---
 
-## What this notebook demonstrates
-
-- Construction of a PINN using PyTorch
-- Enforcement of physics constraints
-- Solving convection-dominated problems
-- Visualization of boundary-layer behavior
-
----
+By 
+Dr. Sangeeta Yadav,
+Assistant Professor,
+Department of Computer Science and Engineering,
+Faculty of Technology,
+University of Delhi.
+[Google Scholar](https://scholar.google.com/citations?user=5HYe3KwAAAAJ&hl=en) || [Linkedin](https://www.linkedin.com/in/shongi/)
 
 
 
