@@ -1,5 +1,9 @@
-streamlit
 numpy
 matplotlib
-deepxde
+scipy
 torch
+torchvision
+torchaudio
+deepxde
+notebook
+streamlit
