@@ -1,4 +1,6 @@
-# Unified Approaches to Solving Differential Equations: From Classical Methods to Neural Networks (UniSDE-2025)
+# Workshop “Infectious Disease Dynamics: Modeling and Computational Techniques”
+supported under SPARC Project by Govt. of India Dates: 26–27 December 2025
+Venue: BITS Pilani K. K. Birla Goa Campus
 
 # L30: Neural Network–based Solvers for Convection–Diffusion Systems
 
