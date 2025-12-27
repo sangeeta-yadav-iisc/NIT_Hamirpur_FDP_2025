@@ -3,6 +3,21 @@ Venue: BITS Pilani K. K. Birla Goa Campus
 
 # Hands-on Session on PINNs and DeepXDE
 
+- Python programming fundamentals
+- PyTorch: tensors, automatic differentiation, neural networks
+- Physics-Informed Neural Networks (PINNs) using DeepXDE
+- Solving PDEs without traditional meshing
+
+**Problems Covered**
+- Convection–Diffusion Equation
+- Burgers’ Equation
+
+**Key Concepts**
+- Automatic differentiation for PDE derivatives
+- Embedding physical laws into neural networks
+- Enforcing governing equations as soft constraints
+- Data-driven and physics-informed modeling
+
 I will demonstrate the use of **DeepXDE** for solving following excercises with corresponding notebooks:
 
 - [1D Steady Convection–Diffusion Equation](https://github.com/sangeeta-yadav-iisc/NIT_Hamirpur_FDP_2025/blob/main/convdiff.ipynb)
@@ -11,6 +26,20 @@ I will demonstrate the use of **DeepXDE** for solving following excercises with 
 
 - [1D Time-Dependent Burgers’ Equation](https://github.com/sangeeta-yadav-iisc/NIT_Hamirpur_FDP_2025/blob/main/burgers_equation.ipynb)
 
+
+
+## Alternative: One-Command Installation
+
+If you prefer a single command setup, use the provided install script.
+
+### Linux / macOS / WSL
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+### Windows
+install.bat
 
 ---
 
@@ -27,21 +56,6 @@ Faculty of Technology,
 University of Delhi.
 
 [Homepage](https://sites.google.com/view/sangeetayadav/home)||[Google Scholar](https://scholar.google.com/citations?user=5HYe3KwAAAAJ&hl=en) || [Linkedin](https://www.linkedin.com/in/shongi/)
-
-## Alternative: One-Command Installation
-
-If you prefer a single command setup, use the provided install script.
-
-### Linux / macOS / WSL
-```bash
-chmod +x install.sh
-./install.sh
-```
-
-### Windows
-install.bat
-
-
 
 ---
 
