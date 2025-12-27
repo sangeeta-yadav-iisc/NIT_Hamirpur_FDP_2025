@@ -4,7 +4,7 @@ Venue: BITS Pilani K. K. Birla Goa Campus
 # Hands-on Session on PINNs and DeepXDE
 
 - [Python programming fundamentals](https://github.com/sangeeta-yadav-iisc/BITS_GOA_2025_workshop/blob/main/pythontutorial1.ipynb)
-- PyTorch: tensors, automatic differentiation, neural networks
+- [PyTorch: tensors, automatic differentiation, neural networks](https://github.com/sangeeta-yadav-iisc/BITS_GOA_2025_workshop/blob/main/pytorchtutorial.ipynb)
 - Physics-Informed Neural Networks (PINNs) using DeepXDE
 - Solving PDEs without traditional meshing
 
