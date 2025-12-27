@@ -1,9 +1,9 @@
 # Workshop “Infectious Disease Dynamics: Modeling and Computational Techniques”
 Venue: BITS Pilani K. K. Birla Goa Campus
 
-# Hands-on session Hands-on Session on PINNs and DeepXDE
+# Hands-on Session on PINNs and DeepXDE
 
-I demonstrate the use of **DeepXDE** for solving following excercises with corresponding notebooks:
+I will demonstrate the use of **DeepXDE** for solving following excercises with corresponding notebooks:
 
 - [1D Steady Convection–Diffusion Equation](https://github.com/sangeeta-yadav-iisc/NIT_Hamirpur_FDP_2025/blob/main/convdiff.ipynb)
 
