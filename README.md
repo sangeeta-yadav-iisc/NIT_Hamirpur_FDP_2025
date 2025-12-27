@@ -27,6 +27,19 @@ University of Delhi.
 
 [Homepage](https://sites.google.com/view/sangeetayadav/home)||[Google Scholar](https://scholar.google.com/citations?user=5HYe3KwAAAAJ&hl=en) || [Linkedin](https://www.linkedin.com/in/shongi/)
 
+## Alternative: One-Command Installation
+
+If you prefer a single command setup, use the provided install script.
+
+### Linux / macOS / WSL
+```bash
+./install.sh
+
+### Windows
+install.bat
+
+
+
 ---
 
 ## Streamlit Dashboard
