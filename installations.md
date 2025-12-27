@@ -1,4 +1,4 @@
-Step 1: Install Miniconda
+## Step 1: Install Miniconda
 
 Miniconda is a lightweight Python distribution that helps manage environments.
 
@@ -23,7 +23,7 @@ conda --version
 
 If a version number appears, Miniconda is installed correctly ✅
 
-Step 2: Create a New Conda Environment
+## Step 2: Create a New Conda Environment
 
 Create a clean environment for this tutorial:
 
@@ -37,19 +37,19 @@ conda activate pinn_tutorial
 
 You should see (pinn_tutorial) in your terminal prompt.
 
-Step 3: Upgrade pip
+## Step 3: Upgrade pip
 pip install --upgrade pip
 
 
 This ensures smooth package installation.
 
-Step 4: Install Basic Scientific Python Libraries
+## Step 4: Install Basic Scientific Python Libraries
 pip install numpy scipy matplotlib
 
 
 These libraries are required for numerical computing and visualization.
 
-Step 5: Install PyTorch (CPU Version – Recommended)
+## Step 5: Install PyTorch (CPU Version – Recommended)
 pip install torch torchvision torchaudio
 
 Notes:
@@ -60,7 +60,7 @@ CPU version is sufficient and avoids setup issues
 
 This works on all operating systems
 
-Step 6: Install DeepXDE
+## Step 6: Install DeepXDE
 pip install deepxde
 
 
@@ -74,7 +74,7 @@ Implementing Physics-Informed Neural Networks
 
 It will automatically use PyTorch as the backend.
 
-Step 7: Install Jupyter Notebook
+## Step 7: Install Jupyter Notebook
 pip install notebook
 
 
@@ -85,7 +85,7 @@ jupyter notebook
 
 Your browser should open with the Jupyter interface.
 
-Step 8: Verify the Installation
+## Step 8: Verify the Installation
 
 Run the following command:
 
