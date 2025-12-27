@@ -18,7 +18,7 @@ Verify Installation
 
 Open a terminal (or Anaconda Prompt on Windows) and run:
 
-'''
+''' bash
 conda --version
 '''
 
